@@ -9,4 +9,4 @@ gcc tee.c -o tee
 
 `-a` : append output to file
 
-For example: ./tee -a <file1> <file2> ... <filen>
+For example: ./tee -a \<file1\> <file2> ... <filen>
